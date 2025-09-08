@@ -1,1 +1,1 @@
-# Pixel-Mint
+# PixelMint

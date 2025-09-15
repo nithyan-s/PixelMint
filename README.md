@@ -1,4 +1,4 @@
-# PixelMint
+# Pixel-Mint
 
 A Next-Gen Decentralized NFT Marketplace on Blockchain
 
